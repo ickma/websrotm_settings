@@ -15,4 +15,12 @@
     <keyboard-shortcut first-keystroke="alt down" />
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+    <keyboard-shortcut first-keystroke="alt u" />
+  </action>
 </keymap>
