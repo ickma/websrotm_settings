@@ -11,6 +11,14 @@
     <keyboard-shortcut first-keystroke="alt up" />
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
+  <action id="EditorTextEnd">
+    <keyboard-shortcut first-keystroke="meta end" />
+    <keyboard-shortcut first-keystroke="shift alt period" />
+  </action>
+  <action id="EditorTextStart">
+    <keyboard-shortcut first-keystroke="meta home" />
+    <keyboard-shortcut first-keystroke="shift alt comma" />
+  </action>
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="alt down" />
     <keyboard-shortcut first-keystroke="alt n" />
